@@ -1,7 +1,5 @@
 # hacemos-tus-sue-os-realidad
 
-¡Claro que sí! Aquí te proporciono una documentación que puedes colocar en tu repositorio de GitHub:
-
 # Documentación del proyecto
 
 ## Descripción
